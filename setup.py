@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-    name = "SymbolType",
-    packages = ["SymbolType"],
+    name = "symbol",
+    packages = ["peak.util"],
     version = "1.0",
     description = "Symbol type for Python",
     author = "Phillip J. Eby",
