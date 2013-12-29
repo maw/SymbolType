@@ -1,0 +1,5 @@
+include README.txt
+include setup.py
+include peak/__init__.py
+include peak/util/__init__.py
+include peak/util/symbols.py
